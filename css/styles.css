@@ -1,0 +1,129 @@
+.nav-nav {
+  background-color: darkslateblue;
+    }
+    
+    nav a {
+      text-decoration: none;
+    }
+    
+    nav a:hover {
+      text-decoration: none;
+    }
+    
+    nav a h1 {
+      color: white;
+      margin-left: 20px;
+      font-size: 35px;
+      font-weight: bolder;
+    }
+    
+    .log {
+      margin-top: 34px;
+    }
+    
+    .background {
+      background-color: lightgrey;
+    }
+    
+    div ul li label {
+      color: white;
+    }
+    
+    div ul li button {
+      background-color: slateblue;
+      color: white;
+      border: none;
+    }
+    
+    .surname {
+      margin-left:0 auto;
+    }
+    
+    .firstname {
+      margin-right:0 auto;
+    }
+    
+    input {
+      padding: 0px;
+      border-radius: 3px;
+      margin: auto;
+    }
+    
+    .long input {
+      width: 400px;
+      border-radius: 5px;
+      padding: 5px;
+      border: none;
+      outline: none;
+    }
+    
+    li {
+      list-style: none;
+    }
+    
+    a {
+      text-decoration: none;
+    }
+    
+    .b-day {
+      font-size: 20px;
+    }
+    
+    select option {
+      color: blue;
+    }
+    
+    .why {
+      font-size: 9px;
+    }
+    
+    .gender {
+      font-size: 20px;
+      margin-top: 20px;
+    }
+    
+    .terms {
+      font-size: 15px;
+    }
+    
+    .click-account {
+      color: white;
+      background-color: green;
+      border-color: white;
+      border-radius: 2px;
+      padding: 7px;
+      font-weight: bolder;
+    }
+    
+    .footer1 {
+      border-bottom: 1px solid lightgrey;
+      color: grey;
+    }
+    
+    .footer1 a {
+      color: darkblue;
+      display: inline;
+      margin-left: 15px;
+      text-decoration: none;
+    }
+    
+    .footer1 a:hover {
+      text-decoration: underline;
+    }
+    
+    .footer2 {
+      font-size: 15px;
+      color: grey;
+    }
+    
+    .footer2 a {
+      color: darkblue;
+      display: inline-block;
+      margin-right: 40px;
+      text-decoration: none;
+      margin-bottom: 5px;
+    }
+    
+    .footer2 a:hover {
+      text-decoration: underline;
+    }
